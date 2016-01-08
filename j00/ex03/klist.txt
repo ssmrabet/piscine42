@@ -1,0 +1,6 @@
+Credentials cache: API:16121
+        Principal: smrabet@42.FR
+
+  Issued                Expires               Principal
+Oct 14 19:38:08 2015  Oct 15 05:38:08 2015  krbtgt/42.FR@42.FR
+Oct 14 20:13:12 2015  Oct 15 05:38:08 2015  ldap/ldap-proxy.42.fr@42.FR
